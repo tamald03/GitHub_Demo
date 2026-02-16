@@ -1,2 +1,3 @@
 # GitHub_Demo
-Demo repo for Github Learning
+Demo repo for Github Learning.\
+Author -- Tamal Das
